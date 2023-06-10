@@ -10,7 +10,7 @@
 
 ![image](https://github.com/DarshaK1Just/Tatvasoft_15_internship/assets/88178092/6c0b2a91-9ce1-4281-a38e-5402fa581a21)
 
-![image](https://github.com/DarshaK1Just/Tatvasoft_15_internship/assets/88178092/aea9fb8a-77e2-4bd0-8456-7b11b004803c)
+<!-- ![image](https://github.com/DarshaK1Just/Tatvasoft_15_internship/assets/88178092/aea9fb8a-77e2-4bd0-8456-7b11b004803c) -->
 
 
 
